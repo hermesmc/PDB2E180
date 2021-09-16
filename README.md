@@ -30,6 +30,14 @@ Passo a passo para dar carga em tabelas de homologação.
   
 5 - Gravar PDB2 no OPP:
   - No OPP entre na opção 21:
-![OPP4](https://user-images.githubusercontent.com/49697760/133626934-c74d809f-169b-4c80-b3e8-d0e1e922fe9a.jpg)
-  - Na procedure preencha com: "PDB2E180"
-  - 
+![OPP5](https://user-images.githubusercontent.com/49697760/133627287-b185e04e-5f90-4c80-b899-bf4e9d810af2.jpg)
+  - Na procedure preencha com: "PDB2E180";
+  - Aplicativo: DJO;
+  - Data-sharing: D8G5;
+  - Arquivo: nome do arquivo gerado em homologa;
+  - Telefone: seu telefone;
+  - Motivo: PF4 para verificar, mas normalmente, 32;
+  - Dtmov: data atual;
+  - ENTER para execução imediata;
+
+6 - Solicitar para um funcionário liberar. A partir da liberação as tabelas já vão sofreer as ações dos códigos SQL do arquivo executado.

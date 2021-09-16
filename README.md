@@ -9,5 +9,7 @@ Passo a passo para dar carga em tabelas de homologação.
         
 ![TRA1](https://user-images.githubusercontent.com/49697760/133622675-d4fe7dd0-f565-4978-bde0-8cd6dca34ca2.jpg)        
         
-        
+  - Em "arquivo" informe o nome do arquivo como o SQL e selecione "hm" para homologação;
+  
+![TRA2](https://user-images.githubusercontent.com/49697760/133623240-b84c09da-20b4-4629-9946-c2bb47109b8e.jpg)        
   

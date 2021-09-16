@@ -28,4 +28,6 @@ Passo a passo para dar carga em tabelas de homologação.
   
 ![OPP2](https://user-images.githubusercontent.com/49697760/133624565-94772ec2-3b02-4a8b-a726-5157d62f2019.jpg)  
   
+5 - Gravar PDB2 no OPP:
+  - No OPP entre na opção 21:
   

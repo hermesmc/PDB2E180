@@ -14,6 +14,7 @@ Passo a passo para dar carga em tabelas de homologação.
 ![TRA2](https://user-images.githubusercontent.com/49697760/133623240-b84c09da-20b4-4629-9946-c2bb47109b8e.jpg)        
   
   - Mande submeter: ENTER
-  
+ 
+![TRA3](https://user-images.githubusercontent.com/49697760/133623626-1040e7fa-7e9e-4889-ae77-88f8db2575ff.jpg) 
   
   

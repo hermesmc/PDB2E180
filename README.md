@@ -16,6 +16,7 @@ Passo a passo para dar carga em tabelas de homologação.
   - Mande submeter: ENTER
  
 ![TRA3](https://user-images.githubusercontent.com/49697760/133623626-1040e7fa-7e9e-4889-ae77-88f8db2575ff.jpg) 
+![OPP6](https://user-images.githubusercontent.com/49697760/133628267-9e060f1a-2b7f-4a8e-9a9d-7ab2918648a2.jpg)
   
 3 - Verifique se o arquivo foi gerado. Entre no ROSCOE de desenvolvimento e procure pelo arquivo: A D BBN.@@DJO+;
 4 - Estando tudo OK deverá ser feito OVERRIDE do arquivo. Entre no OPP de homologa(Opção 23.1):
@@ -30,7 +31,9 @@ Passo a passo para dar carga em tabelas de homologação.
   
 5 - Gravar PDB2 no OPP:
   - No OPP entre na opção 21:
+  
 ![OPP5](https://user-images.githubusercontent.com/49697760/133627287-b185e04e-5f90-4c80-b899-bf4e9d810af2.jpg)
+  
   - Na procedure preencha com: "PDB2E180";
   - Aplicativo: DJO;
   - Data-sharing: D8G5;

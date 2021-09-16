@@ -30,4 +30,6 @@ Passo a passo para dar carga em tabelas de homologação.
   
 5 - Gravar PDB2 no OPP:
   - No OPP entre na opção 21:
-  
+![OPP4](https://user-images.githubusercontent.com/49697760/133626934-c74d809f-169b-4c80-b3e8-d0e1e922fe9a.jpg)
+  - Na procedure preencha com: "PDB2E180"
+  - 

@@ -23,11 +23,14 @@ Passo a passo para dar carga em tabelas de homologação.
 ![OPP1](https://user-images.githubusercontent.com/49697760/133624338-34fc9427-d370-47d4-9170-b17848f0b6f3.jpg)
 - Preencha "Procedure" com: PDJOSQL1, por exemplo;
 - Preencha "Job número" com: 9999, por exemplo;
-- Preencha arquivo com o nome do arquivo gerado em homologa: BBN.@@DJOSQL...
-- Preencha a opção com 5 e mande submeter  
+- Preencha arquivo com o nome do arquivo gerado em homologa: BBN.@@DJOSQL...;
+- Preencha a opção com 5 e mande submeter;  
   
 ![OPP2](https://user-images.githubusercontent.com/49697760/133624565-94772ec2-3b02-4a8b-a726-5157d62f2019.jpg)
 ![OPP6](https://user-images.githubusercontent.com/49697760/133628267-9e060f1a-2b7f-4a8e-9a9d-7ab2918648a2.jpg)  
+
+  - Verifique, no ROSCOE de homologação, se o arquivo e seu conteúdo estão OK.
+  
   
 5 - Gravar PDB2 no OPP:
   - No OPP entre na opção 21:

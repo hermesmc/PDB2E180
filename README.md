@@ -21,6 +21,11 @@ Passo a passo para dar carga em tabelas de homologação.
 4 - Estando tudo OK deverá ser feito OVERRIDE do arquivo. Entre no OPP de homologa(Opção 23.1):
   
 ![OPP1](https://user-images.githubusercontent.com/49697760/133624338-34fc9427-d370-47d4-9170-b17848f0b6f3.jpg)
+- Preencha "Procedure" com: PDJOSQL1, por exemplo;
+- Preencha "Job número" com: 9999, por exemplo;
+- Preencha arquivo com o nome do arquivo gerado em homologa: BBN.@@DJOSQL...
+- Preencha a opção com 5 e mande submeter  
+  
 ![OPP2](https://user-images.githubusercontent.com/49697760/133624565-94772ec2-3b02-4a8b-a726-5157d62f2019.jpg)  
   
   

@@ -29,7 +29,7 @@ Passo a passo para dar carga em tabelas de homologação.
 ![OPP2](https://user-images.githubusercontent.com/49697760/133624565-94772ec2-3b02-4a8b-a726-5157d62f2019.jpg)
 ![OPP6](https://user-images.githubusercontent.com/49697760/133628267-9e060f1a-2b7f-4a8e-9a9d-7ab2918648a2.jpg)  
 
-  - Verifique, no ROSCOE de homologação, se o arquivo e seu conteúdo estão OK.
+  - ATENÇÃO: Verifique, no ROSCOE de homologação, se o arquivo e seu conteúdo estão OK.
   
   
 5 - Gravar PDB2 no OPP:

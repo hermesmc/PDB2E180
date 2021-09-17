@@ -39,7 +39,7 @@ Passo a passo para dar carga em tabelas de homologação.
   
   - Na procedure preencha com: "PDB2E180";
   - Aplicativo: DJO;
-  - Data-sharing: D8G5;
+  - Data-sharing: <b>D8G5</b>;
   - Arquivo: nome do arquivo gerado em homologa;
   - Telefone: seu telefone;
   - Motivo: PF4 para verificar, mas normalmente, 32;

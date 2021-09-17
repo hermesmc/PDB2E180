@@ -50,7 +50,7 @@ Passo a passo para dar carga em tabelas de homologação.
 
 - Como verificar a execução do Job?
   
-1 - Entre no OPP, opção 43;
+## 1 - Entre no OPP, opção 43;
   
   ![OPP7](https://user-images.githubusercontent.com/49697760/133786128-217b4ad9-20df-4ae3-871c-96c36514cda3.jpg)
   
@@ -62,5 +62,7 @@ Passo a passo para dar carga em tabelas de homologação.
   
 2 - Entre no CAVIEW de homologa (logon caviewhm)  
   
+![CAVIEW1](https://user-images.githubusercontent.com/49697760/133787729-b9828a3a-b436-4bff-9e19-bb4e5893ba3b.jpg)
   
+![CAVIEW2](https://user-images.githubusercontent.com/49697760/133787740-9bd6c58b-29e9-4584-85fc-c9d72628c01e.jpg)  
   

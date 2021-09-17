@@ -62,7 +62,10 @@ Passo a passo para dar carga em tabelas de homologação.
   
 2 - Entre no CAVIEW de homologa (logon caviewhm)  
   
-![CAVIEW1](https://user-images.githubusercontent.com/49697760/133787729-b9828a3a-b436-4bff-9e19-bb4e5893ba3b.jpg)
+  - Informe o nome do Job visto no tiem anterior;
   
+![CAVIEW1](https://user-images.githubusercontent.com/49697760/133788179-55ceece3-9ec8-4db3-8064-8527098fdace.jpg)
+  
+  - Selecione a execução com "S" para visualizar o resultado da execução;
 ![CAVIEW2](https://user-images.githubusercontent.com/49697760/133787740-9bd6c58b-29e9-4584-85fc-c9d72628c01e.jpg)  
   

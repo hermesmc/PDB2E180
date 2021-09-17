@@ -48,9 +48,9 @@ Passo a passo para dar carga em tabelas de homologação.
 
 6 - Solicitar para um funcionário liberar. A partir da liberação as tabelas já vão sofreer as ações dos códigos SQL do arquivo executado.
 
-- Como verificar a execução do Job?
+## Como verificar a execução do Job?
   
-## 1 - Entre no OPP, opção 43;
+1 - Entre no OPP, opção 43;
   
   ![OPP7](https://user-images.githubusercontent.com/49697760/133786128-217b4ad9-20df-4ae3-871c-96c36514cda3.jpg)
   

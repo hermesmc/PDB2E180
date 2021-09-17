@@ -51,4 +51,12 @@ Passo a passo para dar carga em tabelas de homologação.
 - Como verificar a execução do Job?
   
 1 - Entre no OPP, opção 43;
-  - 
+  
+  ![OPP7](https://user-images.githubusercontent.com/49697760/133786128-217b4ad9-20df-4ae3-871c-96c36514cda3.jpg)
+  
+  - Preencha o período e, pelo menos o SIS;
+  - Na lista presentada selecione o Job;
+  - Pegue o nome do Job que foi executado;
+  
+2 - Entre no CAVIEW de homologa (logon caviewhm)  
+  

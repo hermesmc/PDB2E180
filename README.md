@@ -47,3 +47,8 @@ Passo a passo para dar carga em tabelas de homologação.
   - ENTER para execução imediata;
 
 6 - Solicitar para um funcionário liberar. A partir da liberação as tabelas já vão sofreer as ações dos códigos SQL do arquivo executado.
+
+- Como verificar a execução do Job?
+  
+1 - Entre no OPP, opção 43;
+  - 
